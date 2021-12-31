@@ -1,0 +1,123 @@
+.main-container {
+  background-color: #9ba9eb;
+  height: 150vh;
+}
+.list-type {
+  list-style-type: none;
+  display: flex;
+  padding: 20px;
+  margin: 20px;
+}
+.logo {
+  height: 100px;
+  width: 100;
+  padding: 20px;
+}
+.form-app-container {
+  background-color: blue;
+  border-radius: 5px;
+
+  margin: 0px 15%;
+}
+.form-container {
+  display: flex;
+  justify-content: space-between;
+  padding: 35px;
+  margin: 0px 10%;
+}
+.form {
+  background-color: skyblue;
+  padding: 20px;
+  border-radius: 5px;
+  width: 50%;
+}
+.heading {
+  font-size: 20px;
+  color: #fff;
+}
+.password-manager-logo {
+  height: 190px;
+  width: 190px;
+}
+.website-logo {
+  height: 30px;
+  background-color: #fff;
+  padding: 5px;
+}
+.website {
+  display: flex;
+  margin-bottom: 8px;
+}
+.input-website {
+  height: 30px;
+  width: 100%;
+  padding: 5px;
+}
+.add-btn {
+  display: flex;
+  margin-left: auto;
+  background-color: blue;
+  color: #fff;
+  padding: 10px;
+  border: none;
+  border-radius: 5px;
+}
+
+.search-logo {
+  height: 30px;
+  background-color: #fff;
+  padding: 5px;
+}
+.search-website {
+  height: 30px;
+  width: 100%;
+  padding: 5px;
+}
+.pagetwo {
+  display: flex;
+  margin-top: 10px;
+  justify-content: space-between;
+  padding: 20px;
+}
+.website-pagetwo {
+  display: flex;
+  margin-top: 15px;
+}
+.pagetwo-count {
+  display: flex;
+}
+.heading-password {
+  font-size: 20px;
+  color: #fff;
+}
+.pera-password {
+  border: 1px solid;
+  margin-left: 5px;
+  padding: 5px;
+  border-radius: 40%;
+  color: #fff;
+}
+.checkbox-container {
+  display: flex;
+  justify-content: flex-end;
+  margin-right: 5px;
+}
+.checkbox-input {
+  height: 60px;
+
+  padding: 5px;
+}
+.show-password {
+  color: #fff;
+  margin-top: 21px;
+}
+.no-paasword {
+  height: 200px;
+  width: 250px;
+}
+.password {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}

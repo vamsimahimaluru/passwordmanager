@@ -1,0 +1,33 @@
+.button {
+  margin-top: 20px;
+  height: 40px;
+  outline: none;
+  border-radius: 120%;
+  background-color: grey;
+  border: none;
+}
+.initial {
+  background-color: grey;
+  border-radius: 100%;
+  align-items: center;
+  padding: 10px;
+}
+.delete {
+  height: 20px;
+}
+.starts {
+  height: 15px;
+}
+.app-container {
+  margin: 10px;
+  border: 2px solid grey;
+  padding: 20px;
+}
+.list-container {
+  display: flex;
+  padding: 10px;
+  flex-wrap: wrap;
+}
+.list-container-list {
+  padding: 10px;
+}
